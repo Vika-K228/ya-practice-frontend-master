@@ -90,6 +90,7 @@ position: relative;
 .description {
 display: flex;
 justify-content: center;
+background-color: #F2F2F2;
 }
 
 .two-columns {
@@ -142,6 +143,7 @@ margin-bottom: 30px;
 display: flex;
 flex-direction: column;
 align-items: center;
+background-color: #F2F2F2;
 }
 
 .section-title {
